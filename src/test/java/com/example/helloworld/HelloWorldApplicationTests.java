@@ -16,7 +16,7 @@ class HelloWorldApplicationTests {
 
     @Test
     void contextLoads() {
-        // to ensure that controller is getting created inside the application context123
+        // to ensure that controller is getting created inside the application context1
         assertNotNull(helloWorldController);
     }
 
